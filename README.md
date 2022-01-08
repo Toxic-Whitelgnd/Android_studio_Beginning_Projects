@@ -1,6 +1,8 @@
 # profile_card
 
 A new Flutter project.
+Check the code in lib/main.dart
+Check the output in output/output.jpeg
 
 ## Getting Started
 
